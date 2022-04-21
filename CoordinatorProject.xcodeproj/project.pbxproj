@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		175393FB280D5790003030D2 /* main.gif in Resources */ = {isa = PBXBuildFile; fileRef = 175393FA280D5790003030D2 /* main.gif */; };
 		175393FD280D57D5003030D2 /* onboarding.gif in Resources */ = {isa = PBXBuildFile; fileRef = 175393FC280D57D5003030D2 /* onboarding.gif */; };
+		1782E7482811775A005772E3 /* coordinator.png in Resources */ = {isa = PBXBuildFile; fileRef = 1782E7472811775A005772E3 /* coordinator.png */; };
+		1782E74A28117761005772E3 /* communication.png in Resources */ = {isa = PBXBuildFile; fileRef = 1782E74928117761005772E3 /* communication.png */; };
 		17ECF631280C438F00D3E87F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17ECF630280C438F00D3E87F /* AppDelegate.swift */; };
 		17ECF633280C438F00D3E87F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17ECF632280C438F00D3E87F /* SceneDelegate.swift */; };
 		17ECF635280C438F00D3E87F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17ECF634280C438F00D3E87F /* ViewController.swift */; };
@@ -33,6 +35,8 @@
 /* Begin PBXFileReference section */
 		175393FA280D5790003030D2 /* main.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = main.gif; sourceTree = "<group>"; };
 		175393FC280D57D5003030D2 /* onboarding.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = onboarding.gif; sourceTree = "<group>"; };
+		1782E7472811775A005772E3 /* coordinator.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = coordinator.png; sourceTree = "<group>"; };
+		1782E74928117761005772E3 /* communication.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = communication.png; sourceTree = "<group>"; };
 		17ECF62D280C438F00D3E87F /* CoordinatorProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoordinatorProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		17ECF630280C438F00D3E87F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		17ECF632280C438F00D3E87F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -72,6 +76,8 @@
 			children = (
 				175393FA280D5790003030D2 /* main.gif */,
 				175393FC280D57D5003030D2 /* onboarding.gif */,
+				1782E7472811775A005772E3 /* coordinator.png */,
+				1782E74928117761005772E3 /* communication.png */,
 			);
 			path = Images;
 			sourceTree = "<group>";
@@ -226,6 +232,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1782E7482811775A005772E3 /* coordinator.png in Resources */,
+				1782E74A28117761005772E3 /* communication.png in Resources */,
 				17ECF63D280C438F00D3E87F /* LaunchScreen.storyboard in Resources */,
 				175393FB280D5790003030D2 /* main.gif in Resources */,
 				17ECF63A280C438F00D3E87F /* Assets.xcassets in Resources */,
